@@ -9,7 +9,7 @@ This respository initates  all the local setting when creating a new bootable US
 
 Tutorial to create a persistant USB with Ubuntu from Windows:
 (either method will do)
-[Method 1] (https://www.youtube.com/watch?v=jGthtXxW8nk)
+[Method 1](https://www.youtube.com/watch?v=jGthtXxW8nk)
 [Method 2](https://itsfoss.com/create-live-usb-of-ubuntu-in-windows/)
 
 
